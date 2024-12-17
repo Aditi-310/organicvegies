@@ -309,7 +309,7 @@ section {
     border: 0px solid;
     display: flex;
     justify-content: center;
-    background: url(/IMAGES/allorganics.jpg) no-repeat;
+    background: url("https://res.cloudinary.com/dmkmdqiya/image/upload/v1734366043/allorganics_qm3fhu.jpg") no-repeat;
     background-position: center;
     background-size: cover;
     padding-top: 17rem;
